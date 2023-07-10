@@ -1,4 +1,4 @@
 # MohammadSadeghiyan
 💫 About Me:
 
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently working machine learning
